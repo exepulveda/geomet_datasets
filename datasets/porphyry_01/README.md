@@ -58,7 +58,7 @@ pyrite        % of pyrite
 grindability_distributions.gslib
 ================================
 
-bwi           Bond work index
+bwi           Bond work index distribution for simulating back transform
 
 block_model.csv
 ===============
@@ -74,6 +74,6 @@ molibdenite   % of molibdenite
 pyrite        % of pyrite
 cu            total copper grade (%)
 mo            total molibdenum grade (%)
-as            total arsenic grade (%)
-rec           recovery (%)
-bwi           Bond work index
+as            total arsenic grade (ppm)
+rec           rougher recovery (%)
+bwi           Bond work index (kwh/tc)
