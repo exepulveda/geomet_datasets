@@ -1,3 +1,5 @@
+
+'@author Exequiel Sepulveda https://github.com/exepulveda'
 import csv
 import argparse
 import sys
