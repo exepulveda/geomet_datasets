@@ -12,12 +12,12 @@ This dataset contains the data used in the paper:
 
 The files are:
 
-1.- pseudo_drillholes.gslib: samples used as conditioning samples to build simulations (GSLIB format).
-2.- mineralogical_distributions.csv: mineral proportions used to calculate geochemical composition (CSV format).
-3.- correlations.csv: correlations among variables (int the normal score space) for compositional geostatistical simulation (CSV format).
-4.- grindability_distributions.csv: distribution of Bwi for back transformation (CSV format).
-5.- block_model.csv: simulate geometallugical block model (CSV format).
-6.- synthetic_drillholes.gslib: synthetic drillcores sampled from the simulate geometallugical block model (GSLIB format).
+1. pseudo_drillholes.gslib: samples used as conditioning samples to build simulations (GSLIB format).
+1. mineralogical_distributions.csv: mineral proportions used to calculate geochemical composition (CSV format).
+1. correlations.csv: correlations among variables (int the normal score space) for compositional geostatistical simulation (CSV format).
+1. grindability_distributions.csv: distribution of Bwi for back transformation (CSV format).
+1. block_model.csv: simulate geometallugical block model (CSV format).
+1. synthetic_drillholes.gslib: synthetic drillcores sampled from the simulate geometallugical block model (GSLIB format).
 
 # Individual file descriptions
 
