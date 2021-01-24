@@ -16,12 +16,9 @@ The files are:
 5.- block_model.csv: simulate geometallugical block model (CSV format).
 6.- synthetic_drillholes.gslib: synthetic drillcores sampled from the simulate geometallugical block model (GSLIB format).
 
-==================================
 == Individual file descriptions ==
-==================================
 
-pseudo_drillholes.gslib
-=======================
+=== pseudo_drillholes.gslib ===
 
 midx,midy,midz location of the sample
 minz           mineralisation zone:
@@ -32,8 +29,7 @@ minz           mineralisation zone:
                 4: Primary hypogene sulphides with low chalcopyrite: pyrite ratio.
                 5: Waste and Gravel without economic content associated with copper.
 
-mineralogical_distributions.csv
-===============================
+=== mineralogical_distributions.csv ===
 
 clays         % of clays
 chalcocite    % of chalcocite
@@ -43,8 +39,7 @@ tennantite    % of tennantite
 molibdenite   % of molibdenite
 pyrite        % of pyrite
 
-correlations.csv
-================
+=== correlations.csv ===
 
 Nscore:data   variable name
 clays         % of clays
@@ -55,13 +50,11 @@ tennantite    % of tennantite
 molibdenite   % of molibdenite
 pyrite        % of pyrite
 
-grindability_distributions.gslib
-================================
+=== grindability_distributions.gslib ===
 
 bwi           Bond work index distribution for simulating back transform
 
-block_model.csv
-===============
+=== block_model.csv ===
 
 x,y,z         location of the block centre
 ton           tonnage of the block
