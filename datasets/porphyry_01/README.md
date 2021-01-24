@@ -1,10 +1,13 @@
 This dataset contains the data used in the paper:
 
-@article{Garrido2020,
-author = {Garrido, Mauricio and Sep\'uveda, Exequiel and Ortiz, Juli\'an},
-pages = {1--24},
-title = {{A Methodology for the Simulation of Synthetic Exploration and Geometallurgical Database for Educational Purposes}},
-year = {2020}
+@article{garrido2020simulation,
+  title={Simulation of synthetic exploration and geometallurgical database of porphyry copper deposits for educational purposes},
+  author={Garrido, Mauricio and Sep{\'u}lveda, Exequiel and Ortiz, Julian and Townley, Brian},
+  journal={Natural Resources Research},
+  volume={29},
+  pages={3527--3545},
+  year={2020},
+  publisher={Springer}
 }
 
 The files are:
